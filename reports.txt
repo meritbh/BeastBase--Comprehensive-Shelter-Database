@@ -1,0 +1,37 @@
+Report 1: Summary of Animals
+Total Animals: 14
+Total Cats: 8
+Total Dogs: 4
+
+Report 2: Animal Introductions
+Moan- I am Morris, a  cat. Age: 9, Weight: 3 kg, Color: yellow, Health: good.
+Mew- I am Mittens, a Calico cat. Age: 1, Weight: 1 kg, Color: brown and white, Health: good.
+- I am Junior, a Tabby cat. Age: 1, Weight: 2 kg, Color: black, Health: .
+Mew- I am Priss, a  cat. Age: 0, Weight: 0 kg, Color: white, Health: good.
+Hello! I am . I'm a bird. Age: 0, Weight: 0 kg, Color: black, Health: .
+Hiss- I am Charcoal, a Siamese cat. Age: 1, Weight: 2 kg, Color: white and yellow, Health: good.
+- I am Bitsy, a Minx dog. Age: 4, Weight: 6 kg, Color: grey, Health: good.
+- I am Charmin, a  cat. Age: 0, Weight: 3 kg, Color: white, Health: parvo.
+! I am Chippy. I'm a hamster. Age: 0, Weight: 1 kg, Color: tan, Health: .
+Bark- I am Fido, a  dog. Age: 5, Weight: 7 kg, Color: spotted, Health: good.
+- I am Red, a Heinz cat. Age: 2, Weight: 0 kg, Color: redddish, Health: parvo.
+Purr- I am Cute Stuff, a  cat. Age: 1, Weight: 2 kg, Color: yellow, Health: good.
+- I am Rex, a  dog. Age: 3, Weight: 5 kg, Color: brown and white, Health: good.
+Woof- I am Spot, a Dalmation dog. Age: 0, Weight: 8 kg, Color: spotted, Health: .
+
+Report 3: Cat Introductions
+Moan- I am Morris, a  cat. Age: 9, Weight: 3 kg, Color: yellow, Health: good.
+Mew- I am Mittens, a Calico cat. Age: 1, Weight: 1 kg, Color: brown and white, Health: good.
+- I am Junior, a Tabby cat. Age: 1, Weight: 2 kg, Color: black, Health: .
+Mew- I am Priss, a  cat. Age: 0, Weight: 0 kg, Color: white, Health: good.
+Hiss- I am Charcoal, a Siamese cat. Age: 1, Weight: 2 kg, Color: white and yellow, Health: good.
+- I am Charmin, a  cat. Age: 0, Weight: 3 kg, Color: white, Health: parvo.
+- I am Red, a Heinz cat. Age: 2, Weight: 0 kg, Color: redddish, Health: parvo.
+Purr- I am Cute Stuff, a  cat. Age: 1, Weight: 2 kg, Color: yellow, Health: good.
+
+Report 4: Dog Introductions
+- I am Bitsy, a Minx dog. Age: 4, Weight: 6 kg, Color: grey, Health: good.
+Bark- I am Fido, a  dog. Age: 5, Weight: 7 kg, Color: spotted, Health: good.
+- I am Rex, a  dog. Age: 3, Weight: 5 kg, Color: brown and white, Health: good.
+Woof- I am Spot, a Dalmation dog. Age: 0, Weight: 8 kg, Color: spotted, Health: .
+
