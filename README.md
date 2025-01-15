@@ -1,4 +1,4 @@
-# Animal Shelter Database System
+# BeastBase--Animal-Shelter-Database-System
 
 ## Overview
 This project implements a comprehensive **Animal Shelter Database System** designed to manage and track animals in a no-kill shelter. The program categorizes animals, primarily dogs and cats, and generates insightful reports based on their attributes and statuses. This application demonstrates object-oriented programming principles, file handling, and debugging techniques, making it an excellent showcase of programming expertise.
